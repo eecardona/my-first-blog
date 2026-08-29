@@ -58,7 +58,7 @@ h4 {
 }
 
 .btn-secondary,
-.btn-secondary:visited
+.btn-secondary:visited {
     color: #44758e;
     background: none;
     border-color: #44758e;
