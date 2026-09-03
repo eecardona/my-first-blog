@@ -74,3 +74,16 @@ body{
     background-color: #899097;
     color: #ffffff;
 }
+
+#logout {
+    font-family: 'Lobster', cursive;
+
+}
+
+small a,
+small a:hover,
+small a:visited {
+    font-size: 15pt;
+    color: #ffffff;
+    text-decoration: none;
+}
